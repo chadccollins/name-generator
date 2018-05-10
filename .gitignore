@@ -1,0 +1,3 @@
+# ignore pip stuff
+Pipfile
+Pipfile.lock
